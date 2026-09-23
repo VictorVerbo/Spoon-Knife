@@ -1,5 +1,6 @@
 ### Well hello there!
 Hola Mundo
+Se necesita instalar git
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
